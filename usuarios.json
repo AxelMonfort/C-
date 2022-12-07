@@ -1,0 +1,32 @@
+[
+  {
+    "UserId": 0,
+    "Name": "Axel",
+    "UserName": "Monfort",
+    "Password": "123"
+  },
+  {
+    "UserId": 0,
+    "Name": "Paula",
+    "UserName": "Aguero",
+    "Password": "222"
+  },
+  {
+    "UserId": 0,
+    "Name": "Nayla",
+    "UserName": "Monfort",
+    "Password": "345"
+  },
+  {
+    "UserId": 0,
+    "Name": "Ruben",
+    "UserName": "Gaset",
+    "Password": "546"
+  },
+  {
+    "UserId": 0,
+    "Name": "Roxana",
+    "UserName": "Zamorano",
+    "Password": "ab546"
+  }
+]

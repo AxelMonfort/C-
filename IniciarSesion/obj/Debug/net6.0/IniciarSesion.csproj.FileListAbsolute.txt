@@ -1,0 +1,14 @@
+C:\Users\axele\OneDrive\Escritorio\Cursos\Code First\IniciarSesion\bin\Debug\net6.0\IniciarSesion.deps.json
+C:\Users\axele\OneDrive\Escritorio\Cursos\Code First\IniciarSesion\bin\Debug\net6.0\IniciarSesion.runtimeconfig.json
+C:\Users\axele\OneDrive\Escritorio\Cursos\Code First\IniciarSesion\bin\Debug\net6.0\IniciarSesion.dll
+C:\Users\axele\OneDrive\Escritorio\Cursos\Code First\IniciarSesion\bin\Debug\net6.0\IniciarSesion.pdb
+C:\Users\axele\OneDrive\Escritorio\Cursos\Code First\IniciarSesion\obj\Debug\net6.0\IniciarSesion.csproj.AssemblyReference.cache
+C:\Users\axele\OneDrive\Escritorio\Cursos\Code First\IniciarSesion\obj\Debug\net6.0\IniciarSesion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axele\OneDrive\Escritorio\Cursos\Code First\IniciarSesion\obj\Debug\net6.0\IniciarSesion.AssemblyInfoInputs.cache
+C:\Users\axele\OneDrive\Escritorio\Cursos\Code First\IniciarSesion\obj\Debug\net6.0\IniciarSesion.AssemblyInfo.cs
+C:\Users\axele\OneDrive\Escritorio\Cursos\Code First\IniciarSesion\obj\Debug\net6.0\IniciarSesion.csproj.CoreCompileInputs.cache
+C:\Users\axele\OneDrive\Escritorio\Cursos\Code First\IniciarSesion\obj\Debug\net6.0\IniciarSesion.dll
+C:\Users\axele\OneDrive\Escritorio\Cursos\Code First\IniciarSesion\obj\Debug\net6.0\refint\IniciarSesion.dll
+C:\Users\axele\OneDrive\Escritorio\Cursos\Code First\IniciarSesion\obj\Debug\net6.0\IniciarSesion.pdb
+C:\Users\axele\OneDrive\Escritorio\Cursos\Code First\IniciarSesion\obj\Debug\net6.0\IniciarSesion.genruntimeconfig.cache
+C:\Users\axele\OneDrive\Escritorio\Cursos\Code First\IniciarSesion\obj\Debug\net6.0\ref\IniciarSesion.dll
